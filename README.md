@@ -67,12 +67,15 @@ python src/train.py --model nf
 python src/evaluate.py --model nf
 ```
 
+---
 
 ## 🗺️ Roadmap: Phase 2 and Beyond
-*[ ] **Quantile Regression Neural Networks:** Implementing direct conditional quantile bound estimation to isolate phase-space boundary outliers rigorously.
+- [ ] **Quantile Regression Neural Networks:** Implementing direct conditional quantile bound estimation to isolate phase-space boundary outliers rigorously.
 
-*[ ] **Extended Feature Spaces:** Expanding dimensionality beyond 3 kinematic variables to include angular correlations and multi-jet topologies.
+- [ ] **Extended Feature Spaces:** Expanding dimensionality beyond 3 kinematic variables to include angular correlations and multi-jet topologies.
 
+
+---
 
 ## 🤝 Contributing
 Contributions, issue reports, and alternative flow architectures are welcome! Feel free to open an issue or submit a pull request.
